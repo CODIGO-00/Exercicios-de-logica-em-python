@@ -1,4 +1,4 @@
-# logica-python
+# logica-Python
 Exercícios de lógica de programação em python
 
 Repositório Criado para armazenar meus  exercícios de lógica de programação utilizando python.
@@ -11,6 +11,6 @@ Repositório Criado para armazenar meus  exercícios de lógica de programação
 - Laços de repetição
 - Funções
 
-## objetivo
+## Objetivo
 
-Praticar lógica de programação em python fazendo exercícios com o objetivo de evoluir e avançar no mercado de trabalho.
+Praticar lógica de programação em Python fazendo exercícios com o objetivo de evoluir e avançar no mercado de trabalho.
