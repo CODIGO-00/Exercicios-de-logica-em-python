@@ -6,9 +6,11 @@ Exercícios de lógica de programação em python.
 
 Repositório criado para armazenar meus  exercícios de lógica de programação utilizando python.
 
-## Linguagem:
+## ⚙ Ambientes e ferramentas:
 
-- Pydroid 3
+- Dispositivo: Smartphone Android
+- Editor: Pydroid 3
+- Sistema: Android 10
 
 ## Conteúdos:
 
