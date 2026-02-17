@@ -31,8 +31,8 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 ## Estrutura do repositório:
 
 Logica-Python/
-   |---exercicios-basicos/     
-   |     |---
+   |___exercicios-basicos/     
+   |     |___
    |     
 
 ---
