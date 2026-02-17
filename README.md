@@ -1,16 +1,22 @@
-# Logica em Python
+# Logica de Programação em Python
 
-Exercícios de lógica de programação em python.
+Exercícios de lógica de programação em Python.
+
+-------------------------------------------
 
 ## Sobre o repositório:
 
-Repositório criado para armazenar meus  exercícios de lógica de programação utilizando python.
+Repositório criado para armazenar meus  exercícios de lógica de programação utilizando Python.
+
+-------------------------------------------
 
 ## ⚙ Ambientes e ferramentas:
 
 - Dispositivo: Smartphone Android
 - Editor: Pydroid 3
 - Sistema: Android 10
+
+-------------------------------------------
 
 ## Conteúdos:
 
@@ -20,6 +26,8 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 - Laços de repetição
 - Funções
 
+-------------------------------------------
+
 ## Objetivo:
 
-Praticar lógica de programação em Python, aplicando exercícios para ter um melhor aprendizado e conhecimento técnico.
+Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico.
