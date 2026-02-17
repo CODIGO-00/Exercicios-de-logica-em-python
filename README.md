@@ -2,13 +2,13 @@
 
 Exercícios de lógica de programação em Python.
 
--------------------------------------------
+---
 
 ## Sobre o repositório:
 
 Repositório criado para armazenar meus  exercícios de lógica de programação utilizando Python.
 
--------------------------------------------
+---
 
 ## ⚙ Ambientes e ferramentas:
 
@@ -16,7 +16,7 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 - Editor: Pydroid 3
 - Sistema: Android 10
 
--------------------------------------------
+---
 
 ## Conteúdos:
 
@@ -26,7 +26,7 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 - Laços de repetição
 - Funções
 
--------------------------------------------
+---
 
 ## Objetivo:
 
