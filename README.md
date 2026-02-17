@@ -28,6 +28,14 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 
 ---
 
+## Estrutura do repositório:
+
+Logica-Python/
+   |---exercicios-basicos/     
+   |     |---
+   |     
+
+---
 ## Objetivo:
 
 Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico.
