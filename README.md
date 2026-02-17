@@ -1,4 +1,4 @@
-# Logica de Programação em Python
+## Logica de Programação em Python
 
 Exercícios de lógica de programação em Python.
 
@@ -31,10 +31,11 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 ## Estrutura do repositório:
 
 Logica-Python/
-   |___exercicios-basicos/     
-   |     |___
-   |     
-
+   |---exercicios-basicos/     
+   |     |___01_Ola_mundo.py
+   |     |___02_entrada_e_saida_de_dados.py
+   |
+   |
 ---
 ## Objetivo:
 
