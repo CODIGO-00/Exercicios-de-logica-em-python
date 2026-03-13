@@ -21,7 +21,7 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 ## 🔧 Conteúdos:
 
 - Exercícios básicos
-- Variáveis
+- operadores
 - Estruturas condicionais
 - Laços de repetição
 - Funções
@@ -40,7 +40,7 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 
         |___03_calculo_de_media.py
   
-  |---variaveis/   
+  |---operadores/   
 
 ---
 
