@@ -36,11 +36,11 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
   
   |---exercicios-basicos/     
         
-        |___01_ola_mundo.py
+## 01_ola_mundo.py
         
-        |___02_entrada_e_saida_de_dados.py 
+## 02_entrada_e_saida_de_dados.py 
 
-        |___03_calculo_de_media.py
+## 03_calculo_de_media.py
   
   |---operadores/
   
