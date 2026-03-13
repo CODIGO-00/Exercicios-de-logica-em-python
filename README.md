@@ -30,8 +30,8 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 
 ## Estrutura do Repositório:
 
-Logica-Python/
-  |
+#Logica-Python/
+  
   |---exercicios-basicos/     
         
         |___01_ola_mundo.py
