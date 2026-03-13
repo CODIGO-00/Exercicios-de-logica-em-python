@@ -41,6 +41,8 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
         |___03_calculo_de_media.py
   
   |---operadores/   
+      
+        |___01_calculo_com_operador.py
 
 ---
 
