@@ -42,8 +42,7 @@ README.md
  "olá mundo",utilizando print().
 
 '''python
-print("olá mundo")
-'''
+print("olá mundo")'''
 
 **Objetivo:**
  "É aprender como funciona saida de dados utilizando 'print()' como saida."
