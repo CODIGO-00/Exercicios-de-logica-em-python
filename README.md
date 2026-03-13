@@ -31,16 +31,18 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 ## Estrutura do repositório:
 
 Logica-Python/
-   |---exercicios-basicos/     
+  
+  |---exercicios-basicos/     
         
         |___01_ola_mundo.py
         
         |___02_entrada_e_saida_de_dados.py 
 
         |___03_calculo_de_media.py
-   |---variaveis/   
-   |
-   |
+  
+  |---variaveis/   
+  |
+  |
 ---
 
 ## Objetivo:
