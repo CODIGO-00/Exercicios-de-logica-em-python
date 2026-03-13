@@ -38,11 +38,11 @@ Logica-Python/
         |___02_entrada_e_saida_de_dados.py 
 
         |___03_calculo_de_media.py
-   
-   |---variáveis/   
+   |---variaveis/   
    |
    |
 ---
+
 ## Objetivo:
 
 Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico.
