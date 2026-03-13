@@ -37,8 +37,13 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 README.md   
         
 ## 01_ola_mundo.py 
+ 
  Criação do primeiro Programa que mostra
- "olá mundo",utilizando 'print("olá mundo")'.
+ "olá mundo",utilizando print().
+
+'''python
+print("olá mundo")
+'''
 
 **Objetivo:**
  "É aprender como funciona saida de dados utilizando 'print()' como saida."
