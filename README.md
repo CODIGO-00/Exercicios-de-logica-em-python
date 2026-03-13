@@ -31,12 +31,14 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 ## Estrutura do Repositório:
 
 #Logica-Python/
-
-/README.md
   
-  |---exercicios-basicos/     
+  |---exercicios-basicos/  
+
+README.md   
         
-## 01_ola_mundo.py
+## 01_ola_mundo.py 
+
+**
         
 ## 02_entrada_e_saida_de_dados.py 
 
