@@ -10,7 +10,7 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 
 ---
 
-## ⚙ Ambientes e ferramentas:
+## ⚙ Ambientes e Ferramentas:
 
 - Dispositivo: Smartphone Android
 - Editor: Pydroid 3
@@ -28,7 +28,7 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 
 ---
 
-## Estrutura do repositório:
+## Estrutura do Repositório:
 
 Logica-Python/
   
@@ -41,8 +41,7 @@ Logica-Python/
         |___03_calculo_de_media.py
   
   |---variaveis/   
-  |
-  |
+
 ---
 
 ## Objetivo:
