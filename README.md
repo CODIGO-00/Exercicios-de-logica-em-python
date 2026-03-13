@@ -32,7 +32,7 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 
 #Logica-Python/
   
-  |---exercicios-basicos/  
+  |---*exercicios-basicos*/ 
 
 README.md   
         
@@ -47,7 +47,7 @@ README.md
 
 ## 03_calculo_de_media.py
   
-  |---operadores/
+  |---*operadores*/
   
 /README.md
       
