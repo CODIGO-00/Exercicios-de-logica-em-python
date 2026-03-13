@@ -38,10 +38,10 @@ README.md
         
 ## 01_ola_mundo.py 
  Criação do primeiro Programa que mostra
- "olá mundo",utilizando print().
+ "olá mundo",utilizando 'print("olá mundo")'.
 
 **Objetivo:**
- "É aprender como funciona saida de dados utilizando print() como saida."
+ "É aprender como funciona saida de dados utilizando 'print()' como saida."
         
 ## 02_entrada_e_saida_de_dados.py 
 
