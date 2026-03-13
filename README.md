@@ -31,7 +31,8 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 ## Estrutura do Repositório:
 
 #Logica-Python/
-README.md
+
+/README.md
   
   |---exercicios-basicos/     
         
@@ -42,7 +43,8 @@ README.md
         |___03_calculo_de_media.py
   
   |---operadores/
-  README.md
+  
+/README.md
       
         |___01_calculo_com_operador.py
 
