@@ -36,7 +36,7 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
 
 README.md   
         
-## 01_ola_mundo.py 
+## **01_ola_mundo.py**
  
  Criação do primeiro Programa que mostra
  "olá mundo",utilizando print().
@@ -47,9 +47,17 @@ README.md
 **Objetivo:**
  "É aprender como funciona saida de dados utilizando 'print()' como saida."
         
-## 02_entrada_e_saida_de_dados.py 
+## **02_entrada_e_saida_de_dados.py**
+ Criação de programa que tem entrada e  
+ saida de dados com a utilização do 
+ "int,input e print()".
 
-## 03_calculo_de_media.py
+**Objetivo:**
+ "Aprender como funciona a entrada e saida 
+ de dados, e melhorar o uso de print(),int 
+ e input em Python".
+
+## **03_calculo_de_media.py**
   
   *|---operadores/*
   
