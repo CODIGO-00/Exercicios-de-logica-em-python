@@ -34,7 +34,7 @@ Repositório criado para armazenar meus  exercícios de lógica de programação
   
   *|---exercicios-basicos/*
 
-README.md   
+README.md/   
         
 ## **01_ola_mundo.py**
  
@@ -61,7 +61,7 @@ README.md
   
   *|---operadores/*
   
-/README.md
+README.md/
       
         |___01_calculo_com_operador.py
 
