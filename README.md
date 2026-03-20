@@ -38,8 +38,7 @@ README.md/
         
 ## **01_ola_mundo.py**
  
- Criação do primeiro Programa que mostra
- "olá mundo",utilizando print().
+ "Criação do primeiro Programa que mostra" "olá mundo",utilizando print()."
 
 '''python
  print("olá mundo")'''
@@ -48,17 +47,18 @@ README.md/
  "É aprender como funciona saida de dados utilizando 'print()' como saida."
         
 ## **02_entrada_e_saida_de_dados.py**
- Criação de programa que tem entrada e  
+
+ "Criação de programa que tem entrada e  
  saida de dados com a utilização do 
  "int,input e print()".
 
 **Objetivo:**
- "Aprender como funciona a entrada e saida 
- de dados, e melhorar o uso de print(),int 
- e input em Python".
+
+ "Aprender como funciona a entrada e saida de dados, e melhorar o uso de print(),int e input em Python."
 
 ## **03_calculo_de_media.py**
-  Codificação de um calculo matemático  
+ 
+ "Codificação de um calculo matemático  
   em código com a utilização de...
   
   *|---operadores/*
