@@ -15,7 +15,7 @@
 - Dispositivo: Smartphone Android;
 - Editor: Pydroid 3;
 - Sistema: Android 10;
-- Guia: GitHub;
+- Guarda_código: GitHub;
 
 ---
 
