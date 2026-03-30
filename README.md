@@ -1,20 +1,21 @@
 ## Logica de Programação em Python
 
-Exercícios de lógica de programação em Python.
+ Exercícios de lógica de programação em Python.
 
 ---
 
 ## 🗒 Sobre o repositório:
 
-Repositório criado para armazenar meus  exercícios de lógica de programação utilizando Python.
+ Repositório criado para armazenar meus  exercícios de lógica de programação utilizando Python.
 
 ---
 
 ## ⚙ Ambientes e Ferramentas:
 
-- Dispositivo: Smartphone Android
-- Editor: Pydroid 3
-- Sistema: Android 10
+- Dispositivo: Smartphone Android;
+- Editor: Pydroid 3;
+- Sistema: Android 10;
+- Guia: GitHub;
 
 ---
 
@@ -59,7 +60,7 @@ README.md/
 ## **03_calculo_de_media.py**
  
  "Codificação de um calculo matemático  
-  em código com a utilização de...
+em código com a utilização de...
   
   *|---operadores/*
   
