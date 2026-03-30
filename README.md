@@ -60,7 +60,7 @@ README.md/
 ## **03_calculo_de_media.py**
  
  "Codificação de um calculo matemático  
-em código com a utilização de...
+em código com a utilização..."
   
   *|---operadores/*
   
