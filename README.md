@@ -70,6 +70,6 @@ README.md/
 
 ---
 
-## Objetivo:
+## **Objetivo:**
 
 *Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico.*
