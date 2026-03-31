@@ -1,13 +1,15 @@
 ## Logica de Programação em Python
 
  Exercícios de lógica de programação em  
- Python.
+  Python.
 
 ---
 
 ## 🗒 Sobre o repositório:
 
- Repositório criado para armazenar meus  exercícios de lógica de programação utilizando Python.
+"Repositório criado para armazenar meus     
+  exercícios de lógica de programação  
+  utilizando Python."
 
 ---
 
@@ -41,38 +43,38 @@ README.md/
 ## **01_ola_mundo.py**
  
  "Criação do primeiro Programa que 
-  mostra" "olá mundo",utilizando 
-  print()."
+   mostra" "olá mundo",utilizando 
+   print()."
 
 **Objetivo:**
  "É aprender como funciona saida de 
-  dados utilizando 'print()' como   
-  saida."
+   dados utilizando 'print()' como   
+   saida."
         
 ## **02_entrada_e_saida_de_dados.py**
 
  "Criação de programa que tem entrada e  
-  saida de dados com a utilização do 
-  int,input e print()".
+   saida de dados com a utilização do 
+   int,input e print()".
 
 **Objetivo:**
 
  "Aprender como funciona a entrada e  
-  saida de dados, e melhorar o uso de 
-  print(),int e input em Python."
+   saida de dados, e melhorar o uso de 
+   print(),int e input em Python."
 
 ## **03_calculo_de_media.py**
  
  "Codificação de calculo matemático  
-  em código com a utilização de:   
-  print(),int, input, variáveis e 
-  operadores básicos."
+   em código com a utilização de:   
+   print(),int, input, variáveis e 
+   operadores básicos."
 
 **Objetivo:**
 
  "Mostra como Tipos de dados e variáveis
-  são utilizados,para resolver um 
-  problema de calculo_de_media Básico."
+   são utilizados,para resolver um 
+   problema de calculo_de_media Básico."
  
   
   *|---operadores/*
@@ -86,6 +88,6 @@ README.md/
 ## **Objetivo:**
 
 *Praticar lógica de programação em  
- Python, aplicando exercícios para ter 
- uma melhor aprendizagem e  
- desenvolvimento técnico.*
+  Python, aplicando exercícios para ter 
+  uma melhor aprendizagem e  
+  desenvolvimento técnico.*
