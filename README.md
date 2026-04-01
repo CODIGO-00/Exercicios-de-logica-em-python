@@ -40,7 +40,7 @@
 
 README.md/   
         
-## **01_ola_mundo.py**
+### **01_ola_mundo.py**
  
  "Criação do primeiro Programa que 
   mostra" "olá mundo",utilizando 
@@ -51,7 +51,7 @@ README.md/
   dados utilizando 'print()' como   
   saida."
         
-## **02_entrada_e_saida_de_dados.py**
+### **02_entrada_e_saida_de_dados.py**
 
  "Criação de programa que tem entrada e  
   saida de dados com a utilização do 
@@ -63,7 +63,7 @@ README.md/
   saida de dados, e melhorar o uso de 
   print(),int e input em Python."
 
-## **03_calculo_de_media.py**
+### **03_calculo_de_media.py**
  
  "Codificação de calculo matemático  
   em código com a utilização de:   
