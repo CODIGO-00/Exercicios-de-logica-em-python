@@ -36,23 +36,21 @@
 
 #Logica-Python/
   
-  *|---exercicios-basicos/*
-
-README.md/   
-        
-### **01_ola_mundo.py**
-
----
-
-  Criação do primeiro Programa que 
-  mostra" "olá mundo",utilizando 
-  print().
-
-**Objetivo:**
-  É aprender como funciona saida de 
-  dados utilizando 'print()' como   
-  saida.
-       
+*|---exercicios-basicos/*
+ |
+ | README.md/   
+ |       
+ |___**01_ola_mundo.py**
+ | **Sobre:**
+ | Criação do primeiro Programa que 
+ | mostra" "olá mundo",utilizando 
+ | print().
+ |
+ | **Objetivo:**
+ | É aprender como funciona saida de 
+ | dados utilizando 'print()' como   
+ | saida.
+ |     
 --
 
 ### **02_entrada_e_saida_de_dados.py**
