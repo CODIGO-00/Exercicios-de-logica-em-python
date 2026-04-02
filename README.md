@@ -53,7 +53,7 @@ README.md/
   dados utilizando 'print()' como   
   saida."
        
--
+--
 
 ### **02_entrada_e_saida_de_dados.py**
 
@@ -67,7 +67,7 @@ README.md/
   saida de dados, e melhorar o uso de 
   print(),int e input em Python."
 
--
+--
 
 ### **03_calculo_de_media.py**
  
@@ -82,7 +82,7 @@ README.md/
   são utilizados,para resolver um 
   problema de calculo_de_media Básico."
 
--
+--
  
   
   *|---operadores/*
