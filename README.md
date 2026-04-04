@@ -39,13 +39,13 @@
 *|---exercicios-basicos/*
  |
  | README.md/   
-       
+ --      
  |___**01_ola_mundo.py**
  | **Sobre:**
  | Criação do primeiro Programa que 
  | mostra" "olá mundo",utilizando 
  | print().
- 
+ --
  | **Objetivo:**
  | É aprender como funciona saida de 
  | dados utilizando 'print()' como   
