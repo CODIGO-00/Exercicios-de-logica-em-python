@@ -38,17 +38,17 @@
   
 *|---exercicios-basicos/*      
      |
-     |___**01_ola_mundo.py**
+     |___01_ola_mundo.py
      | 
-     |___**02_entrada_e_saida_de_dados.py**
+     |___02_entrada_e_saida_de_dados.py
      |
-     |___**03_calculo_de_media.py**
+     |___03_calculo_de_media.py
  ---
 ### **README.MD**
   
-*|---operadores:*
+ |---*operadores:*
  |
- |___**01_calculo_com_operador.py**
+ |___01_calculo_com_operador.py
 
 ---
 
