@@ -35,18 +35,17 @@
 ## Estrutura do Repositório:
 
 #Logica-Python/
-  
-*|---exercicios-basicos/*      
-     |
-     |___01_ola_mundo.py
-     | 
-     |___02_entrada_e_saida_de_dados.py
-     |
-     |___03_calculo_de_media.py
- ```
-### README.MD
-  
- |---operadores:
+ | 
+ |---*exercicios-basicos*:    
+ |   |
+ |   |___01_ola_mundo.py
+ |   | 
+ |   |___02_entrada_e_saida_de_dados.py
+ |   |
+ |   |___03_calculo_de_media.py
+ |
+ |
+ |---*operadores*:
  |
  |___01_calculo_com_operador.py
 
