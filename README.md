@@ -36,58 +36,19 @@
 
 #Logica-Python/
   
-*|---exercicios-basicos/*
+*|---exercicios-basicos/*      
+     |
+     |___**01_ola_mundo.py**
+     | 
+     |___**02_entrada_e_saida_de_dados.py**
+     |
+     |___**03_calculo_de_media.py**
+ ---
+### **README.MD**
+  
+*|---operadores:*
  |
- | README.md/   
- --      
- |___**01_ola_mundo.py**
- | **Sobre:**
- | Criação do primeiro Programa que 
- | mostra" "olá mundo",utilizando 
- | print().
- --
- | **Objetivo:**
- | É aprender como funciona saida de 
- | dados utilizando 'print()' como   
- | saida.
- |     
---
-
-### **02_entrada_e_saida_de_dados.py**
-
-  Criação de programa que tem entrada e  
-  saida de dados com a utilização do 
-  int,input e print().
-
-**Objetivo:**
-
-  Aprender como funciona a entrada e  
-  saida de dados, e melhorar o uso de 
-  print(),int e input em Python.
-
---
-
-### **03_calculo_de_media.py**
- 
-  Codificação de calculo matemático  
-  em código com a utilização de:   
-  print(),int, input, variáveis e 
-  operadores básicos.
-
-**Objetivo:**
-
-  Mostra como Tipos de dados e variáveis
-  são utilizados,para resolver um 
-  problema de calculo_de_media Básico.
-
---
- 
-  
-  *|---operadores/*
-  
-README.md/
-      
-### **01_calculo_com_operador.py**
+ |___**01_calculo_com_operador.py**
 
 ---
 
