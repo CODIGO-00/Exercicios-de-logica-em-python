@@ -44,9 +44,9 @@
      |
      |___03_calculo_de_media.py
  ---
-### **README.MD**
+### README.MD
   
- |---*operadores:*
+ |---operadores:
  |
  |___01_calculo_com_operador.py
 
