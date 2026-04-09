@@ -57,11 +57,17 @@
   Criação do primeiro Programa que 
   mostra" "olá mundo",utilizando 
   print().
---
+
   **Objetivo:**
   É aprender como funciona saida de 
   dados utilizando 'print()' como   
-  saida.   
+  saida.
+  
+  **Funcionamento:** 
+  print->> É o comando que imprime
+  texto,símbolos e números que são
+  inseridos dentro do parêntese.
+  
 --
 
 **02_entrada_e_saida_de_dados.py**
@@ -77,7 +83,7 @@
   print(),int e input em Python.
 --
 
-### **03_calculo_de_media.py**
+**03_calculo_de_media.py**
  
   Codificação de calculo matemático  
   em código com a utilização de:   
