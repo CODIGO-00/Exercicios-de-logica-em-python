@@ -96,11 +96,14 @@
   são utilizados,para resolver um 
   problema de calculo_de_media Básico.
 
+**Funcionamento:**
+
+  Mostra
 ___
 
-## **Objetivo:**
+## **Meta:**
 
- Praticar lógica de programação em  
- Python, aplicando exercícios para ter 
- uma melhor aprendizagem e  
- desenvolvimento técnico.
+  Praticar lógica de programação em  
+  Python, aplicando exercícios para ter 
+  uma melhor aprendizagem e  
+  desenvolvimento técnico.
