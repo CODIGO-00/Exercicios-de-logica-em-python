@@ -30,7 +30,7 @@
 - Laços de repetição;
 - Funções;
 
----
+```
 
 ## Estrutura do Repositório:
 
@@ -43,7 +43,7 @@
      |___02_entrada_e_saida_de_dados.py
      |
      |___03_calculo_de_media.py
- ---
+ ```
 ### README.MD
   
  |---operadores:
