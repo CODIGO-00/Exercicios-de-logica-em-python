@@ -30,9 +30,11 @@
 - Laços de repetição;
 - Funções;
 
-```
+
 
 ## Estrutura do Repositório:
+
+```
 
 #Logica-Python/
  | 
@@ -51,7 +53,7 @@
 
 ```
 
-### README.md
+## README.md
 
 
 **01_ola_mundo.py**
@@ -81,7 +83,7 @@
 
 
   Criação de programa que tem entrada e  
-  saida de dados com a utilização do 
+  saída de dados com a utilização do 
   int,input e print().
 
 
@@ -89,7 +91,7 @@
 
 
   Aprender como funciona a entrada e  
-  saida de dados, e melhorar o uso de 
+  saída de dados, e melhorar o uso de 
   print(),int e input em Python.
 
 --
