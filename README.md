@@ -65,12 +65,14 @@
 
 
   **Objetivo:**
+
   É aprender como funciona saida de 
   dados utilizando 'print()' como   
   saida.
 
   
   **Funcionamento:** 
+
   print->> É o comando que imprime
   texto,símbolos e números que são
   inseridos dentro do parêntese.
