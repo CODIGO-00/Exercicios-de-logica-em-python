@@ -60,7 +60,7 @@
  Criação do primeiro Programa que mostra "olá mundo",utilizando print().
 
 
-  **Objetivo:**
+**Objetivo:**
 
  É aprender como funciona saida de dados utilizando 'print()' como saida.
 
