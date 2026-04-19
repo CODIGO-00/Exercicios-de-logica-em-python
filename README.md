@@ -52,8 +52,11 @@
  |
  |---estruturas-condicionais:
  |   |
+ |   |___01_programa_de_comparação.py
  |   |
- |
+ |   |___02_
+ |   |
+ |   |___03_
 ```
 
 ## README.md
