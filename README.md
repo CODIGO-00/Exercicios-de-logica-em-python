@@ -45,10 +45,10 @@
  |   |___03_identificação_de_numeros.py
  |    
  |---operadores:
- |
- |___01_calculo_com_operador.py
- |
- |___02_calculo_de_media.py
+ |   |
+ |   |___01_calculo_com_operador.py
+ |   |
+ |   |___02_calculo_de_media.py
 
 ```
 
