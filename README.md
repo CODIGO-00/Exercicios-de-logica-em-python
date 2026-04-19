@@ -42,9 +42,7 @@
  |   | 
  |   |___02_entrada_e_saida_de_dados.py
  |   |
- |   |___03_calculo_de_media.py
- |   |
- |   |___04_identificação_de_numeros.py
+ |   |___03_identificação_de_numeros.py
  |    
  |---operadores:
  |
