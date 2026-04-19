@@ -1,4 +1,4 @@
-## Logica de Programação em Python
+## Lógica de Programação em Python
 
  Exercícios de lógica de programação em  
  Python.
