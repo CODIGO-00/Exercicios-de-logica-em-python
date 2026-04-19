@@ -43,8 +43,9 @@
  |   |___02_entrada_e_saida_de_dados.py
  |   |
  |   |___03_calculo_de_media.py
- |
- |
+ |   |
+ |   |___04_identificação_de_numeros.py
+ |    
  |---operadores:
  |
  |___01_calculo_com_operador.py
