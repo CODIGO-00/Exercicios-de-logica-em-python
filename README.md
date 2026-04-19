@@ -49,7 +49,11 @@
  |   |___01_calculo_com_operador.py
  |   |
  |   |___02_calculo_de_media.py
-
+ |
+ |---estruturas-condicionais:
+ |   |
+ |   |
+ |
 ```
 
 ## README.md
