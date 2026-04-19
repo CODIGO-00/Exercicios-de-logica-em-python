@@ -49,6 +49,8 @@
  |---operadores:
  |
  |___01_calculo_com_operador.py
+ |
+ |___02_cálculo_de_média.py
 
 ```
 
