@@ -79,13 +79,12 @@
  É aprender como funciona saida de dados
 utilizando 'print()' para imprimir na tela.
 
-**Script:**
+**Script/**
 
 ```
 print("Olá mundo! Estou aprendendo python.")
 
 ```
-
 
 **02_entrada_de_dados_e_saida.py**
 
@@ -93,7 +92,17 @@ print("Olá mundo! Estou aprendendo python.")
 
 **Objetivo:**
 
- Como usar variáveis,int,input
+ Como usar variáveis,int,input 
+
+**Script/**
+
+```
+idade=int(input("Digite sua idade:"))
+nome=input("Digite seu nome:")
+
+print("Olá",nome,", voce tem",idade, "anos.")
+```
+
 ___
 
 
