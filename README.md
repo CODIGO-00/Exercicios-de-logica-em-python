@@ -54,7 +54,7 @@
  |   |
  |   |___01_programa_de_comparação.py
  |   |
- |   |___02_
+ |   |___02_identificação_de_numeros.py
  |   |
  |   |___03_
 ```
