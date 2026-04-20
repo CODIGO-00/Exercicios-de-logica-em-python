@@ -42,8 +42,6 @@
  |   | 
  |   |___02_entrada_e_saida_de_dados.py
  |   |
- |   |___03_identificação_de_numeros.py
- |   |
  |   |___
  |    
  |---operadores:
@@ -101,7 +99,12 @@ nome=input("Digite seu nome:")
 
 print("Olá",nome,", voce tem",idade, "anos.")
 ```
+ 
+ ## Operadores:
 
+**01_calculo_com_operador.py**
+
+ Comando que calcula valores 
 ___
 
 
