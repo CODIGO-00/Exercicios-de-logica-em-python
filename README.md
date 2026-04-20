@@ -71,17 +71,22 @@
 
 **01_ola_mundo.py**
   
- Criação do primeiro Programa que mostra "olá mundo",utilizando print().
+ Criação do primeiro Programa que imprime na tela "olá mundo". 
 
 
 **Objetivo:**
 
- É aprender como funciona saida de dados utilizando 'print()' como saida.
+ É aprender como funciona saida de dados
+utilizando 'print()' para imprimir na tela.
 
 
 **02_entrada_de_dados_e_saida.py**
 
- Programa que 
+ Programa que pede ao usuário o nome e a idade e no final imprime o resultado.
+
+**Objetivo:**
+
+ Como usar variáveis,int,input
 ___
 
 
