@@ -43,12 +43,16 @@
  |   |___02_entrada_e_saida_de_dados.py
  |   |
  |   |___03_identificação_de_numeros.py
+ |   |
+ |   |___
  |    
  |---operadores:
  |   |
  |   |___01_calculo_com_operador.py
  |   |
  |   |___02_calculo_de_media.py
+ |   |
+ |   |___
  |
  |---estruturas-condicionais:
  |   |
@@ -56,7 +60,9 @@
  |   |
  |   |___02_identificação_de_numeros.py
  |   |
- |   |___03_
+ |   |___03_verificação_de_idade.py
+ |   |
+ |   |___
 ```
 
 ## README.md
