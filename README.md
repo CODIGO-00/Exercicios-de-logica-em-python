@@ -91,7 +91,7 @@ print("Olá mundo! Estou aprendendo python.")
 
 **Objetivo:**
 
- Como usar variáveis,int,input 
+ Como usar variáveis,int,input em um script que pede ao usuário sua idade e nome.
 
 **Script/**
 
