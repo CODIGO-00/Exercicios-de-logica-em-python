@@ -81,9 +81,8 @@ utilizando 'print()' para imprimir na tela.
 
 **Script/**
 
-```
+```Python
 print("Olá mundo! Estou aprendendo python.")
-
 ```
 
 **02_entrada_de_dados_e_saida.py**
@@ -96,7 +95,7 @@ print("Olá mundo! Estou aprendendo python.")
 
 **Script/**
 
-```
+```Python
 idade=int(input("Digite sua idade:"))
 nome=input("Digite seu nome:")
 
