@@ -104,7 +104,17 @@ print("Olá",nome,", voce tem",idade, "anos.")
 
 **01_calculo_com_operador.py**
 
- Comando que calcula valores 
+ Comando que calcula o Dobro do valor e a Exponenciação. O resultado é imprimido no final do processo. 
+
+**Objetivo:**
+
+ Entender a funcionalidade do operador aritmético '*' em um Script que calcula valores que o usuário digita.
+
+**Script/**
+
+```
+
+```
 ___
 
 
