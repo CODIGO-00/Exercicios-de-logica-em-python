@@ -108,7 +108,7 @@ print("Olá",nome,", voce tem",idade, "anos.")
 
 **Objetivo:**
 
- Entender a funcionalidade do operador aritmético '*' em um Script que calcula valores que o usuário digita.
+ Entender a funcionalidade do operador aritmético, '*'(multiplicação) em um Script que calcula valores que o usuário digita.
 
 **Script/**
 
@@ -124,9 +124,18 @@ print("o Resultado ao quadrado é",Número ** 2)
 
 **objetivo:**
 
+ Entender como funciona os 
 
 **Script/**
+'''
+n1=int(input("Digite o primeiro número:"))
+n2=int(input("Digite o segundo número:"))
+n3=int(input("Digite o terceiro número:"))
 
+media=(n3 + n2 + n1) / 3
+
+print("A média é", media)
+'''
 ___
 
 
