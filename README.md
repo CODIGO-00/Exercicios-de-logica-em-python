@@ -104,7 +104,7 @@ print("Olá",nome,", voce tem",idade, "anos.")
 
 **01_calculo_com_operador.py**
 
- Comando que calcula o Dobro do valor e a Exponenciação. O resultado é imprimido no final do processo. 
+ Comando que calcula o Dobro do valor e a Exponenciação.
 
 **Objetivo:**
 
@@ -120,6 +120,7 @@ print("o Resultado ao quadrado é",Número ** 2)
 
 **02_calculo_de_media.py**
 
+ Programa que descobri a média dos valores falados pelo o usuário.
 
 **objetivo:**
 
