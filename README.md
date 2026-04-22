@@ -127,7 +127,8 @@ print("o Resultado ao quadrado é",Número ** 2)
  Entender como funciona os 
 
 **Script/**
-'''
+
+'''Python
 n1=int(input("Digite o primeiro número:"))
 n2=int(input("Digite o segundo número:"))
 n3=int(input("Digite o terceiro número:"))
