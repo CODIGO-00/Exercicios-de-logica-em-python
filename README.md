@@ -17,6 +17,7 @@
 - Editor: Pydroid 3;
 - Sistema: Android 10;
 - Guarda_código: GitHub;
+- Ferramenta de edição: Git;
 
 ---
 
@@ -124,7 +125,7 @@ print("o Resultado ao quadrado é",Número ** 2)
 
 **objetivo:**
 
- Entender como funciona os 
+ Entender como funciona os operadores de Divisão...
 
 **Script/**
 
