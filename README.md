@@ -44,14 +44,14 @@
  |   |___02_entrada_e_saida_de_dados.py
  |   |
  |   |___
- |    
+ |   
  |---operadores:
  |   |
  |   |___01_calculo_com_operador.py
  |   |
  |   |___02_calculo_de_media.py
  |   |
- |   |___
+ |   |___03_soma_simples.py
  |
  |---estruturas-condicionais:
  |   |
@@ -125,7 +125,7 @@ print("o Resultado ao quadrado é",Número ** 2)
 
 **objetivo:**
 
- Entender como funciona os operadores de Divisão...
+ Entender como funciona os operadores de Divisão 
 
 **Script/**
 
