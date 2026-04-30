@@ -5,8 +5,9 @@
 
 ---
 
-## 🗒 -[Sobre o repositório]
- (Repositório criado para armazenar meus exercícios de lógica de programação utilizando Python.)
+## 🗒 Sobre o repositório:
+ 
+ Repositório criado para armazenar meus exercícios de lógica de programação utilizando Python.
 
 ---
 
@@ -30,11 +31,11 @@
 
 
 
-## Estrutura do repositório:
+##-Estrutura-do-repositório
 
 ```
 
-#logica-python/
+#logica-python
  | 
  |---exercicios-basicos:    
  |   |
