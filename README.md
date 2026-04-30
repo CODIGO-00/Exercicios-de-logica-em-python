@@ -5,7 +5,7 @@
 
 ---
 
-## 🗒 [Sobre o repositório:]
+## 🗒 [Sobre o repositório]
 
  Repositório criado para armazenar meus exercícios de lógica de programação utilizando Python.
 
