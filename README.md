@@ -31,7 +31,7 @@
 
 
 
-## -[Estrutura do repositório](#-estrutura-do-repositorio)
+## [Estrutura do repositório](#-estrutura-do-repositorio)
 
 ```
 
