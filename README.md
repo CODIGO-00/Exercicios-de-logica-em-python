@@ -21,7 +21,7 @@
 
 ---
 
-## 🔧 Conteúdos:
+## 🔧 [Conteúdos:](#conteudos)
 
 - exercícios básicos;
 - operadores;
@@ -31,7 +31,7 @@
 
 
 
-## -[Estrutura-do-repositório](#-estrutura-do-repositório)
+## -[Estrutura_do_repositório](#-estrutura-do-repositorio)
 
 ```
 
