@@ -147,5 +147,6 @@ ___
 
 ## **Meta:**
 
-
-## Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico.
+```orange
+ Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico.
+```
