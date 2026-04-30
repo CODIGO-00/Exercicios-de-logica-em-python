@@ -103,7 +103,7 @@ nome=input("Digite seu nome:")
 print("Olá",nome,", voce tem",idade, "anos.")
 ```
  
- ## Operadores:
+ ## [Operadores:](#operadores)
 
 **01_calculo_com_operador.py**
 
@@ -127,9 +127,9 @@ print("o Resultado ao quadrado é",Número ** 2)
 
 **objetivo:**
 
- Entender como funciona os operadores de divisão 
+ Como calcular a média de um valor com a utilização de operadores(/ e +), e avançar mais ainda com as variáveis.
 
-**Script/**
+**Script**
 
 ```Python
 
@@ -141,6 +141,15 @@ media=(n3 + n2 + n1) / 3
 
 print("A média é", media)
 
+```
+
+**03_calculo_aritmetico.py**
+
+**objetivo:**
+
+
+**Script**
+```
 ```
 ___
 
