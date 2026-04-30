@@ -23,15 +23,15 @@
 
 ## 🔧 Conteúdos:
 
-- Exercícios básicos;
+- exercícios básicos;
 - operadores;
-- Estruturas condicionais;
-- Laços de repetição;
-- Funções;
+- estruturas condicionais;
+- laços de repetição;
+- funções;
 
 
 
-## Estrutura do Repositório:
+## Estrutura do repositório:
 
 ```
 
@@ -57,7 +57,7 @@
  |
  |---estruturas-condicionais:
  |   |
- |   |___01_programa_de_comparação.py
+ |   |___01_programa_de_comparacao.py
  |   |
  |   |___02_identificação_de_numeros.py
  |   |
@@ -72,7 +72,7 @@
 
 **01_ola_mundo.py**
   
- Criação do primeiro Programa que imprime na tela "olá mundo". 
+ Criação do primeiro programa que imprime na tela "olá mundo". 
 
 
 **Objetivo:**
@@ -107,7 +107,7 @@ print("Olá",nome,", voce tem",idade, "anos.")
 
 **01_calculo_com_operador.py**
 
- Comando que calcula o Dobro do valor e a Exponenciação.
+ Comando que calcula o dobro do valor e a exponenciação.
 
 **Objetivo:**
 
@@ -123,11 +123,11 @@ print("o Resultado ao quadrado é",Número ** 2)
 
 **02_calculo_de_media.py**
 
- Programa que descobri a média dos valores falados pelo o usuário.
+ Programa que descobre a média dos valores falados pelo o usuário.
 
 **objetivo:**
 
- Entender como funciona os operadores de Divisão 
+ Entender como funciona os operadores de divisão 
 
 **Script/**
 
