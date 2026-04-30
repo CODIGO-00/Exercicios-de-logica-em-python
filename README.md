@@ -51,7 +51,9 @@
  |   |
  |   |___02_calculo_de_media.py
  |   |
- |   |___03_soma_simples.py
+ |   |___03_calculo_aritmetico.py
+ |   |
+ |   |___
  |
  |---estruturas-condicionais:
  |   |
