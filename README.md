@@ -13,11 +13,11 @@
 
 ## ⚙ Ambientes e Ferramentas:
 
-- Dispositivo: Smartphone Android;
-- Editor: Pydroid 3;
-- Sistema: Android 10;
-- Guarda_código: GitHub;
-- Ferramenta de edição: Git;
+- dispositivo: Smartphone Android;
+- editor: Pydroid 3;
+- sistema: Android 10;
+- guarda_código: GitHub;
+- ferramenta de edição: Git;
 
 ---
 
