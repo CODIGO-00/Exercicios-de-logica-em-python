@@ -147,6 +147,6 @@ ___
 
 ## **Meta:**
 
-```orange
+"""orange
  Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico.
-```
+"""
