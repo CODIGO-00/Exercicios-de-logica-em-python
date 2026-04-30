@@ -31,8 +31,7 @@
 
 
 
-## -[Estrutura-do-repositório]
- (#-estrutura-do-repositório)
+## -[Estrutura-do-repositório](#-estrutura-do-repositório)
 
 ```
 
