@@ -35,7 +35,7 @@
 
 ```
 
-#Logica-Python/
+#logica-python/
  | 
  |---exercicios-basicos:    
  |   |
@@ -72,12 +72,12 @@
 
 **01_ola_mundo.py**
   
- Criação do primeiro programa que imprime na tela "olá mundo". 
+#Criação do primeiro programa que imprime na tela "olá mundo". 
 
 
 **Objetivo:**
 
- É aprender como funciona saida de dados
+#É aprender como funciona saida de dados
 utilizando 'print()' para imprimir na tela.
 
 **Script/**
@@ -88,11 +88,11 @@ print("Olá mundo! Estou aprendendo python.")
 
 **02_entrada_de_dados_e_saida.py**
 
- Programa que pede ao usuário o nome e a idade e no final imprime o resultado.
+#Programa que pede ao usuário o nome e a idade e no final imprime o resultado.
 
 **Objetivo:**
 
- Como usar variáveis,int,input em um script que pede ao usuário sua idade e nome.
+#Como usar variáveis,int,input em um script que pede ao usuário sua idade e nome.
 
 **Script/**
 
@@ -107,11 +107,11 @@ print("Olá",nome,", voce tem",idade, "anos.")
 
 **01_calculo_com_operador.py**
 
- Comando que calcula o dobro do valor e a exponenciação.
+#Comando que calcula o dobro do valor e a exponenciação.
 
 **Objetivo:**
 
- Entender a funcionalidade do operador aritmético, '*'(multiplicação) em um Script que calcula valores que o usuário digita.
+#Entender a funcionalidade do operador aritmético, '*'(multiplicação) em um Script que calcula valores que o usuário digita.
 
 **Script/**
 
@@ -123,11 +123,11 @@ print("o Resultado ao quadrado é",Número ** 2)
 
 **02_calculo_de_media.py**
 
- Programa que descobre a média dos valores falados pelo o usuário.
+#Programa que descobre a média dos valores falados pelo o usuário.
 
 **objetivo:**
 
- Entender como funciona os operadores de divisão 
+#Entender como funciona os operadores de divisão 
 
 **Script/**
 
@@ -148,4 +148,4 @@ ___
 ## **Meta:**
 
 
- Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico.
+#Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico.
