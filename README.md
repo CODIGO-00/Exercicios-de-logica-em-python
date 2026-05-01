@@ -133,7 +133,6 @@ print("o Resultado ao quadrado é",Número ** 2)
 **Script**
 
 ```Python
-
 n1=int(input("Digite o primeiro número:"))
 n2=int(input("Digite o segundo número:"))
 n3=int(input("Digite o terceiro número:"))
@@ -141,19 +140,19 @@ n3=int(input("Digite o terceiro número:"))
 media=(n3 + n2 + n1) / 3
 
 print("A média é", media)
-
 ```
 
 **03_calculo_aritmetico.py**
 
- Script que resolve 
+ Script que resolve problemas  matemáticos básicos, como soma, subtração, multiplicação e o resto da divisão.
 
 **objetivo:**
 
+ Utilizar todos os operadores dentro de um Script.
 
 **Script**
-```
 
+```Python
 A=int(input("Digite um número:"))
 B=int(input("Digite outro número:"))
 
@@ -164,14 +163,10 @@ print("Resultado da subtração é",A - B)
 print("Resultado da multiplicação é",A * B)
 
 print("Resultado do resto da divisão é", A % B )
-
 ```
 ___
 
 
 ## **Meta:**
 
-'''
  Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico.
-
-'''
