@@ -29,7 +29,7 @@
 - laços de repetição;
 - funções;
 
-
+---
 
 ## 📦[Estrutura do repositório](#-estrutura-do-repositorio)
 
@@ -68,12 +68,12 @@
 
 ## [README.md](#reame.md)
 
+---
  ## Exercícios-Básicos:
 
 **01_ola_mundo.py**
   
  Criação do primeiro programa que imprime na tela "olá mundo". 
-
 
 **Objetivo:**
 
@@ -102,7 +102,8 @@ nome=input("Digite seu nome:")
 
 print("Olá",nome,", voce tem",idade, "anos.")
 ```
- 
+---
+
  ## [Operadores:](#operadores)
 
 **01_calculo_com_operador.py**
