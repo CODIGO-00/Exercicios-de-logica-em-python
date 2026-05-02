@@ -53,7 +53,7 @@
  |   |
  |   |___03_calculo_aritmetico.py
  |   |
- |   |___
+ |   |___04_tabuada.py
  |
  |---estruturas-condicionais:
  |   |
@@ -80,7 +80,7 @@
  É aprender como funciona saida de dados
 utilizando 'print()' para imprimir na tela.
 
-**Script/**
+**script/**
 
 ```Python
 print("Olá mundo! Estou aprendendo python.")
@@ -95,7 +95,7 @@ print("Olá mundo! Estou aprendendo python.")
 
  Como usar variáveis,int,input em um script que pede ao usuário sua idade e nome.
 
-**Script/**
+**script/**
 
 ```Python
 idade=int(input("Digite sua idade:"))
@@ -115,7 +115,7 @@ print("Olá",nome,", voce tem",idade, "anos.")
 
  Entender a funcionalidade do operador aritmético, '*'(multiplicação) em um Script que calcula valores que o usuário digita.
 
-**Script/**
+**script/**
 
 ```Python
 Número=int(input("Digite um número:"))
@@ -132,7 +132,7 @@ print("o Resultado ao quadrado é",Número ** 2)
 
  Como calcular a média de um valor com a utilização de operadores(/ e +), e avançar mais ainda com as variáveis.
 
-**Script**
+**script**
 
 ```Python
 n1=int(input("Digite o primeiro número:"))
@@ -153,7 +153,7 @@ print("A média é", media)
 
  Utilizar todos os operadores dentro de um Script.
 
-**Script**
+**script**
 
 ```Python
 A=int(input("Digite um número:"))
@@ -169,6 +169,32 @@ print("Resultado do resto da divisão é", A % B )
 ```
 ___
 
+**04_tabuada.py**
+ 
+ Programa que resolve valores de multiplicação do 1 até o 10.
+
+**objetivo:**
+
+Evoluir no cálculo mental da multiplicação com a com o uso do Script de forma lógica e intuitiva.
+
+**script**
+
+```Python
+#entrada 
+n=int(input("Digite um número:"))
+
+#Tabela de multiplicação:
+print (n * 1)
+print (n * 2)
+print (n * 3)
+print (n * 4)
+print (n * 5)
+print (n * 6)
+print (n * 7)
+print (n * 8)
+print (n * 9)
+print (n * 10)
+```
 
 ## **Meta:**
 
