@@ -45,7 +45,7 @@
  |   |
  |   |___
  |   
- |---[operadores:](#operadores)
+ |---[operadores](#operadores)
  |   |
  |   |___01_calculo_com_operador.py
  |   |
@@ -198,7 +198,7 @@ print (n * 10)
 
 ---
 
-## [Estruturas-condicionais:](#estruturas-condicionais:)
+## [Estruturas-condicionais](#estruturas-condicionais)
 
 
 
