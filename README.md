@@ -196,6 +196,14 @@ print (n * 9)
 print (n * 10)
 ```
 
+---
+
+## [Estruturas-condicionais:](#estruturas-condicionais:)
+
+
+
+---
+
 ## **Meta:**
 
  Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico.
