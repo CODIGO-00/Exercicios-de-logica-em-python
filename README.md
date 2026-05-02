@@ -69,7 +69,7 @@
 ## [README.md](#reame.md)
 
 ---
- ## Exercícios-Básicos:
+ ## [Exercícios-Básicos:](#exercicios-basicos:)
 
 **01_ola_mundo.py**
   
