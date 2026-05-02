@@ -16,8 +16,8 @@
 - dispositivo: Smartphone Android;
 - editor: Pydroid 3;
 - sistema: Android 10;
-- guarda_código: GitHub;
-- ferramenta de edição: Git;
+- biblioteca: GitHub;
+- controle de versão: Git;
 
 ---
 
@@ -85,6 +85,7 @@ utilizando 'print()' para imprimir na tela.
 ```Python
 print("Olá mundo! Estou aprendendo python.")
 ```
+---
 
 **02_entrada_de_dados_e_saida.py**
 
@@ -121,6 +122,7 @@ Número=int(input("Digite um número:"))
 print("o Dobro é ", Número * 2)
 print("o Resultado ao quadrado é",Número ** 2)
 ```
+---
 
 **02_calculo_de_media.py**
 
@@ -141,6 +143,7 @@ media=(n3 + n2 + n1) / 3
 
 print("A média é", media)
 ```
+---
 
 **03_calculo_aritmetico.py**
 
