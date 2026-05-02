@@ -224,15 +224,22 @@ else:
 
 **02_indentificacao_de_numeros.py**
 
- Programa que verifica 
+ Programa que verifica números positivos, negativos e nulos,com o valor que o usuário escreve na entrada do script.
 
 **objetivo:**
 
+ Como identificar números de diferentes
 
 **script**
 
 ```Python
-
+numero=int(input("Digite um número:"))
+if numero >=1:
+        print("É positivo.")
+elif numero == 0:
+        print("É zero.")
+else:
+        print("É negativo.")
 ```
 
 
