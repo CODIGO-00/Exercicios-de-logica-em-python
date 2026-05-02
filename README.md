@@ -228,7 +228,7 @@ else:
 
 **objetivo:**
 
- Como identificar números de diferentes
+ Como identificar números positivos e negativos entre o número zero, com uso de if, else e o elif para colocar mais condições.
 
 **script**
 
