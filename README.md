@@ -59,9 +59,9 @@
  |   |
  |   |___01_programa_de_comparacao.py
  |   |
- |   |___02_identificação_de_numeros.py
+ |   |___02_identificacao_de_numeros.py
  |   |
- |   |___03_verificação_de_idade.py
+ |   |___03_verificacao_de_idade.py
  |   |
  |   |___
 ```
@@ -200,9 +200,41 @@ print (n * 10)
 
 ## [Estruturas-condicionais](#estruturas-condicionais)
 
+**01_programa_de_comparacao.py**
 
+ Script que imprime na tela qual o maior valor utilizando if e else para a comparação desses valores.
+
+**objetivo:**
+
+ Aprender como usar if e else em um programa de comparação.
+
+**script**
+
+```Python
+primeiro=int(input("Digite o primeiro número:"))
+segundo=int(input("Digite o segundo número:"))
+
+if primeiro >= segundo:
+    print("O primeiro número maior que o segundo.")
+else:
+        print("O primeiro número é menor que o segundo.")
+```
 
 ---
+
+**02_indentificacao_de_numeros.py**
+
+ Programa que verifica 
+
+**objetivo:**
+
+
+**script**
+
+```Python
+
+```
+
 
 ## **Meta:**
 
