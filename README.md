@@ -245,12 +245,23 @@ else:
 
 **03_verificacao_de_idade.py**
 
+ Script que varifica se a pessoa é maior de idade.
+
 **objetivo:**
+
+Criar um programa para informar se o usuário é maior de idade ou não. Para fixar o aprendizado de Estruturas-Condicionais.
 
 **script**
 
+```Python
+idade= int(input("Digite sua idade:"))
+if idade >=18:
+         print("É maior de idade.")
+else:
+         print("É menor de idade"
 ```
 
+---
 
 ## **Meta:**
 
