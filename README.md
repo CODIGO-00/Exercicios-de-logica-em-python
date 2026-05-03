@@ -241,6 +241,15 @@ elif numero == 0:
 else:
         print("É negativo.")
 ```
+---
+
+**03_verificacao_de_idade.py**
+
+**objetivo:**
+
+**script**
+
+```
 
 
 ## **Meta:**
