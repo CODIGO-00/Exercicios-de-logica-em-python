@@ -41,7 +41,7 @@
  |   |
  |   |___01_ola_mundo.py
  |   | 
- |   |___02_entrada_e_saida_de_dados.py
+ |   |___02_informações-do-usuário.py
  |   |
  |   |___
  |   
@@ -73,7 +73,7 @@
 ## [README.md](#reame.md)
 
 ---
- ## [Exercícios-Básicos:](#exercicios-basicos:)
+ ## [Entrada-e-saida:](#entrada-e-saida:)
 
 **01_ola_mundo.py**
   
@@ -91,7 +91,7 @@ print("Olá mundo! Estou aprendendo python.")
 ```
 ---
 
-**02_entrada_de_dados_e_saida.py**
+**02_informações_do_usuário.py**
 
  Programa que pede ao usuário o nome e a idade e no final imprime o resultado.
 
