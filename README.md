@@ -23,7 +23,7 @@
 
 ## 🔧 [Conteúdos:](#conteudos)
 
-- exercícios básicos;
+- entrada-e-saida;
 - operadores;
 - estruturas condicionais;
 - laços de repetição;
