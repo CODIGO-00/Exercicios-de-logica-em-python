@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
 ### 🐍[Lógica de Programação em Python](#logica-de-programacao-em-python)
 
  Exercícios de lógica de programação em  
