@@ -11,7 +11,7 @@
 
 ---
 
-# ⚙ [Ambientes e ferramentas:](#ambientes-e-ferramentas)
+## ⚙ [Ambientes e ferramentas:](#ambientes-e-ferramentas)
 
 - dispositivo: Smartphone Android;
 - editor: Pydroid 3;
@@ -21,7 +21,7 @@
 
 ---
 
-# 🔧 [Conteúdos:](#conteudos)
+## 🔧 [Conteúdos:](#conteudos)
 
 - entrada-e-saida;
 - operadores;
@@ -31,7 +31,7 @@
 
 ---
 
-# 📂[Estrutura do repositório](#-estrutura-do-repositorio)
+## 📂[Estrutura do repositório](#-estrutura-do-repositorio)
 
 ```
 
@@ -73,7 +73,7 @@
 ## [README.md](#reame.md)
 
 ---
- ## [Entrada-e-saida:](#entrada-e-saida:)
+ # [Entrada-e-saida:](#entrada-e-saida:)
 
 **01_ola_mundo.py**
   
@@ -109,7 +109,7 @@ print("Olá",nome,", voce tem",idade, "anos.")
 ```
 ---
 
- ## [Operadores:](#operadores)
+ # [Operadores:](#operadores)
 
 **01_calculo_com_operador.py**
 
@@ -202,7 +202,7 @@ print (n * 10)
 
 ---
 
-## [Estruturas-condicionais](#estruturas-condicionais)
+# [Estruturas-condicionais](#estruturas-condicionais)
 
 **01_programa_de_comparacao.py**
 
@@ -267,6 +267,6 @@ else:
 
 ---
 
-## **Meta:**
+## [Meta:](#meta:)
 
  Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico.
