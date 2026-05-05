@@ -1,11 +1,11 @@
-## 🐍[Lógica de Programação em Python](#logica-de-programacao-em-python)
+### 🐍[Lógica de Programação em Python](#logica-de-programacao-em-python)
 
  Exercícios de lógica de programação em  
  Python.
 
 ---
 
-# 🗒 [Sobre o repositório:](#sobre-o-repositorio)
+## 🗒 [Sobre o repositório:](#sobre-o-repositorio)
  
 -Repositório criado para armazenar meus exercícios de lógica de programação utilizando Python.
 
