@@ -1,17 +1,17 @@
-# 🐍[Lógica de Programação em Python](#logica-de-programacao-em-python)
+## 🐍[Lógica de Programação em Python](#logica-de-programacao-em-python)
 
  Exercícios de lógica de programação em  
  Python.
 
 ---
 
-## 🗒 [Sobre o repositório:](#sobre-o-repositorio)
+# 🗒 [Sobre o repositório:](#sobre-o-repositorio)
  
 -Repositório criado para armazenar meus exercícios de lógica de programação utilizando Python.
 
 ---
 
-## ⚙ [Ambientes e ferramentas:](#ambientes-e-ferramentas)
+# ⚙ [Ambientes e ferramentas:](#ambientes-e-ferramentas)
 
 - dispositivo: Smartphone Android;
 - editor: Pydroid 3;
@@ -21,7 +21,7 @@
 
 ---
 
-## 🔧 [Conteúdos:](#conteudos)
+# 🔧 [Conteúdos:](#conteudos)
 
 - entrada-e-saida;
 - operadores;
@@ -31,7 +31,7 @@
 
 ---
 
-## 📂[Estrutura do repositório](#-estrutura-do-repositorio)
+# 📂[Estrutura do repositório](#-estrutura-do-repositorio)
 
 ```
 
