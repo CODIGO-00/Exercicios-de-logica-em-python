@@ -16,7 +16,7 @@
 ## ⚙ [Ambientes e ferramentas:](#ambientes-e-ferramentas)
 
 - dispositivo: Smartphone Android;
-- editor:![Pydroid 3](https://img.shields.io/badge/Python-3.x-blue)
+- editor:![Pydroid 3](https://img.shields.io/badge/Pydroid-3.x-blue)
 - sistema: Android 10;
 - biblioteca: GitHub;
 - controle de versão: Git;
