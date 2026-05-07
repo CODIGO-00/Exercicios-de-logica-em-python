@@ -1,5 +1,3 @@
-![Pydroid 3](https://img.shields.io/badge/Python-3.x-blue)
-
 ### 🐍[Lógica de Programação em Python](#logica-de-programacao-em-python)
 
  Exercícios de lógica de programação em  
@@ -16,7 +14,7 @@
 ## ⚙ [Ambientes e ferramentas:](#ambientes-e-ferramentas)
 
 - dispositivo: Smartphone Android;
-- editor:![Pydroid 3](https://img.shields.io/badge/Pydroid-3.x-blue)
+- editor:![Pydroid 3](https://img.shields.io/badge/Pydroid-3.x-greend)
 - sistema: Android 10;
 - biblioteca: GitHub;
 - controle de versão: Git;
