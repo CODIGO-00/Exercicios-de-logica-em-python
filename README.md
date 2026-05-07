@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pydroid 3](https://img.shields.io/badge/Python-3.x-blue)
 
 ### 🐍[Lógica de Programação em Python](#logica-de-programacao-em-python)
 
@@ -16,7 +16,7 @@
 ## ⚙ [Ambientes e ferramentas:](#ambientes-e-ferramentas)
 
 - dispositivo: Smartphone Android;
-- editor: Pydroid 3;
+- editor:![Pydroid 3](https://img.shields.io/badge/Python-3.x-blue)
 - sistema: Android 10;
 - biblioteca: GitHub;
 - controle de versão: Git;
