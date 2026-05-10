@@ -16,6 +16,7 @@
 - dispositivo: Smartphone Android;
 - editor:![Pydroid 3](https://img.shields.io/badge/Pydroid-3.x-greend)
 - sistema:![Android 10](https://img.shields.io/badge/Android-10.x-greend)
+
 -biblioteca:![GitHub](https://img.shields.io/badge/GitHub.x-greend)
 - controle de versão: Git;
 
