@@ -70,10 +70,10 @@
  |
 ```
 
-## [README.md](#reame.md)
+## README.md
 
 ---
-# [Entrada_e_saida:](#entrada_e_saida:)
+# [Entrada-e-saida:](#entrada-e-saida:)
 
 **01_ola_mundo.py**
   
