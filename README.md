@@ -73,7 +73,7 @@
 ## [README.md](#reame.md)
 
 ---
-# [Entrada-e-saida:](#entrada_e_saida:)
+# [Entrada_e_saida:](#entrada_e_saida:)
 
 **01_ola_mundo.py**
   
