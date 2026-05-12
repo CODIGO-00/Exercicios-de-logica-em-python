@@ -269,4 +269,4 @@ else:
 
 ## [Meta:](#meta:)
 
- Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico.
+ Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico,para atingir um melhor desempenho da carreira profissional.
