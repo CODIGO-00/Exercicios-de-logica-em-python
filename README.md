@@ -276,7 +276,7 @@ else:
 **objetivo**
 
 **script**
-```Pytho
+```Python
 while true:
         n=int(input("Digite um número"))
         if n % 2==0:
