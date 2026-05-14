@@ -68,6 +68,10 @@
  |   |___
  |
  |
+ |---lacos-de-repeticao:
+ |    |
+ |    |___01_par_ou_impar_com_lacos.py
+ |
 ```
 
 ## README.md
