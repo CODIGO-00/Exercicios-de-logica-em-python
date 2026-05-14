@@ -1,13 +1,13 @@
 ### 🐍[Lógica de Programação em Python](#logica-de-programacao-em-python)
 
- Exercícios de lógica de programação em  
- Python.
+Exercícios de lógica de programação em  
+Python.
 
 ---
 
 ## 🗒 [Sobre o repositório:](#sobre-o-repositorio)
  
--Repositório criado para armazenar meus exercícios de lógica de programação utilizando Python.
+Repositório criado para armazenar meus exercícios de lógica de programação utilizando Python.
 
 ---
 
@@ -81,11 +81,11 @@
 
 **01_ola_mundo.py**
   
- Criação do primeiro programa que imprime na tela "olá mundo". 
+Criação do primeiro programa que imprime na tela "olá mundo". 
 
 **Objetivo**
 
- É aprender como funciona saida de dados
+É aprender como funciona saida de dados
 utilizando 'print()' para imprimir na tela.
 
 **Script**
@@ -97,7 +97,7 @@ print("Olá mundo! Estou aprendendo python.")
 
 **02_informações_do_usuário.py**
 
- Programa que pede ao usuário o nome e a idade e no final imprime o resultado.
+Programa que pede ao usuário o nome e a idade e no final imprime o resultado.
 
 **Objetivo**
 
@@ -272,8 +272,12 @@ else:
 ---
 
 # [Laços de repetição:](#lacos-de-repeticao:)
+ 
+ Script que utiliza laços para descobrir número ímpar e par.
 
 **objetivo**
+
+Desenvolver o raciocínio com while e true em laços de repetição.
 
 **script**
 ```Python
@@ -286,6 +290,6 @@ while true:
 print("O resultado é",n)
 ```
 
-## [Meta:](#meta:)
+## ↗️[Meta:](#meta:)
 
  Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico,para atingir um melhor desempenho da carreira profissional.
