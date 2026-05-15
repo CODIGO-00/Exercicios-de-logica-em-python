@@ -37,7 +37,7 @@ Repositório criado para armazenar meus exercícios de lógica de programação 
 
 #logica-python
  | 
- |---exercicios-basicos:    
+ |---entrada-e-saida:    
  |   |
  |   |___01_ola_mundo.py
  |   | 
