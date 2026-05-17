@@ -5,13 +5,13 @@ Python.
 
 ---
 
-## 🗒 [Sobre o repositório:](#sobre-o-repositorio)
+## 🗒 [Sobre o Repositório:](#sobre-o-repositorio)
  
 Repositório criado para armazenar meus exercícios de lógica de programação utilizando Python.
 
 ---
 
-## ⚙ [Ambientes e ferramentas:](#ambientes-e-ferramentas)
+## ⚙ [Ambientes e Ferramentas:](#ambientes-e-ferramentas)
 
 - dispositivo: Smartphone Android;
 - editor: Pydroid.3
@@ -31,7 +31,7 @@ Repositório criado para armazenar meus exercícios de lógica de programação 
 
 ---
 
-## 📂[Estrutura do repositório](#-estrutura-do-repositorio)
+## 📂[Estrutura do Repositório](#-estrutura-do-repositorio)
 
 ```
 
