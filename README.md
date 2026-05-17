@@ -1,7 +1,6 @@
 ### 🐍[Lógica de Programação em Python](#logica-de-programacao-em-python)
 
-Exercícios de lógica de programação em  
-Python.
+Exercícios de lógica de programação em Python.
 
 ---
 
@@ -292,4 +291,4 @@ print("O resultado é",n)
 
 ## ↗️[Meta:](#meta:)
 
- Praticar lógica de programação em Python, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico,para atingir um melhor desempenho da carreira profissional.
+Praticar lógica de programação em Python🐍, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico,para atingir um melhor desempenho da carreira profissional.
