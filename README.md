@@ -280,7 +280,7 @@ Desenvolver o raciocínio com while e true em laços de repetição.
 
 **script**
 ```Python
-while true:
+while True:
         n=int(input("Digite um número"))
         if n % 2==0:
                 print("é par")
