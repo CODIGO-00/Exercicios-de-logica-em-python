@@ -34,9 +34,9 @@ Repositório criado para armazenar meus exercícios de lógica de programação 
 
 ```
 
-#logica-python
+#logica-python:
  | 
- |---entrada-e-saida:    
+ |---entrada-e-saida/ 
  |   |
  |   |___01_ola_mundo.py
  |   | 
@@ -44,7 +44,7 @@ Repositório criado para armazenar meus exercícios de lógica de programação 
  |   |
  |   |___
  |   
- |---operadores:
+ |---operadores/
  |   |
  |   |___01_calculo_com_operador.py
  |   |
@@ -56,7 +56,7 @@ Repositório criado para armazenar meus exercícios de lógica de programação 
  |   |
  |   |___
  |
- |---estruturas-condicionais:
+ |---estruturas-condicionais/
  |   |
  |   |___01_programa_de_comparacao.py
  |   |
@@ -67,7 +67,7 @@ Repositório criado para armazenar meus exercícios de lógica de programação 
  |   |___
  |
  |
- |---lacos-de-repeticao:
+ |---lacos-de-repeticao/
  |    |
  |    |___01_par_ou_impar_com_lacos.py
  |
@@ -265,7 +265,7 @@ idade= int(input("Digite sua idade:"))
 if idade >=18:
          print("É maior de idade.")
 else:
-         print("É menor de idade"
+         print("É menor de idade.")
 ```
 
 ---
