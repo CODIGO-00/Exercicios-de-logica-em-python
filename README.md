@@ -272,7 +272,7 @@ else:
 
 # [Laços de repetição:](#lacos-de-repeticao:)
  
- Script que utiliza laços para descobrir número ímpar e par.
+ Script para descobrir se o número é ímpar ou par.
 
 **objetivo**
 
