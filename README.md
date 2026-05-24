@@ -106,6 +106,7 @@ Programa que pede ao usuário o nome e a idade e no final imprime o resultado.
 
 ```Python
 idade=int(input("Digite sua idade:"))
+
 nome=input("Digite seu nome:")
 
 print("Olá",nome,", voce tem",idade, "anos.")
@@ -126,6 +127,7 @@ print("Olá",nome,", voce tem",idade, "anos.")
 
 ```Python
 Número=int(input("Digite um número:"))
+
 print("o Dobro é ", Número * 2)
 print("o Resultado ao quadrado é",Número ** 2)
 ```
@@ -224,7 +226,7 @@ segundo=int(input("Digite o segundo número:"))
 if primeiro >= segundo:
     print("O primeiro número maior que o segundo.")
 else:
-        print("O primeiro número é menor que o segundo.")
+    print("O primeiro número é menor que o segundo.")
 ```
 
 ---
@@ -242,11 +244,11 @@ else:
 ```Python
 numero=int(input("Digite um número:"))
 if numero >=1:
-        print("É positivo.")
+    print("É positivo.")
 elif numero == 0:
-        print("É zero.")
+    print("É zero.")
 else:
-        print("É negativo.")
+    print("É negativo.")
 ```
 ---
 
@@ -263,9 +265,9 @@ Criar um programa para informar se o usuário é maior de idade ou não. Para fi
 ```Python
 idade= int(input("Digite sua idade:"))
 if idade >=18:
-         print("É maior de idade.")
+    print("É maior de idade.")
 else:
-         print("É menor de idade.")
+    print("É menor de idade.")
 ```
 
 ---
@@ -283,9 +285,9 @@ Desenvolver o raciocínio com while e true em laços de repetição.
 while True:
         n=int(input("Digite um número"))
         if n % 2==0:
-                print("é par")
+            print("é par")
         else:
-                print("É impar")
+            print("É impar")
 print("O resultado é",n)
 ```
 
