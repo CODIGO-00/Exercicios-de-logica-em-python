@@ -283,14 +283,14 @@ Desenvolver o raciocínio com while e true em laços de repetição.
 **script**
 ```Python
 while True:
-        n=int(input("Digite um número"))
-        if n % 2==0:
-            print("é par")
-        else:
-            print("É impar")
+n=int(input("Digite um número"))
+if n % 2==0:
+    print("é par")
+else:
+    print("É impar")
 print("O resultado é",n)
 ```
 
 ## ↗️[Meta:](#meta:)
 
-Praticar lógica de programação em Python🐍, aplicando exercícios para ter uma melhor aprendizagem e desenvolvimento técnico,para atingir um melhor desempenho da carreira profissional.
+ Desenvolver o raciocínio computacional com a prática de exercícios na lógica de programação em Python🐍.Criando resoluções criativas para ter uma melhor aprendizagem e desenvolvimento técnico,com o intuito de atingir um melhor desempenho em lógica.
