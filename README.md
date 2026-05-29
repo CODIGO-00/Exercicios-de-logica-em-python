@@ -10,7 +10,7 @@ Repositório criado para armazenar meus exercícios de lógica de programação 
 
 ---
 
-## ⚙ [Ambientes e Ferramentas:](#ambientes-e-ferramentas)
+## ⚙ [Ambientes e Ferramentas:] (#ambientes-e-ferramentas)
 
 - dispositivo: Smartphone Android;
 - editor: Pydroid.3
@@ -80,7 +80,7 @@ Repositório criado para armazenar meus exercícios de lógica de programação 
 
 **01_ola_mundo.py**
   
-Criação do primeiro programa que imprime na tela "olá mundo". 
+Criação do primeiro programa que imprime na tela "Olá Mundo". 
 
 **Objetivo**
 
