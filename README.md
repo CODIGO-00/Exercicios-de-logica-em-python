@@ -4,13 +4,13 @@ Exercícios de lógica de programação em Python.
 
 ---
 
-## 🗒 [Sobre o Repositório:](#sobre-o-repositorio)
+## 🗒 [Sobre o Repositório:](#sobre_o_repositorio)
  
 Repositório criado para armazenar meus exercícios de lógica de programação utilizando Python.
 
 ---
 
-## ⚙ [Ambientes e Ferramentas:] (#ambientes-e-ferramentas)
+## ⚙ [Ambientes e Ferramentas:] (#ambientes_e_ferramentas)
 
 - dispositivo: Smartphone Android;
 - editor: Pydroid.3
@@ -30,7 +30,7 @@ Repositório criado para armazenar meus exercícios de lógica de programação 
 
 ---
 
-## 📂[Estrutura do Repositório](#-estrutura-do-repositorio)
+## 📂[Estrutura do Repositório](#-estrutura_do_repositorio)
 
 ```
 
@@ -40,7 +40,7 @@ Repositório criado para armazenar meus exercícios de lógica de programação 
  |   |
  |   |___01_ola_mundo.py
  |   | 
- |   |___02_informações-do-usuário.py
+ |   |___02_informações_do_usuário.py
  |   |
  |   |___
  |   
@@ -76,7 +76,7 @@ Repositório criado para armazenar meus exercícios de lógica de programação 
 ## Sobre os programas:
 
 ---
-# [Entrada-e-saida:](#entrada-e-saida:)
+# [Entrada_e_saida:](#entrada_e_saida:)
 
 **01_ola_mundo.py**
   
@@ -207,7 +207,7 @@ print (n * 10)
 
 ---
 
-# [Estruturas-condicionais](#estruturas-condicionais)
+# [Estruturas_condicionais](#estruturas_condicionais)
 
 **01_programa_de_comparacao.py**
 
@@ -272,7 +272,7 @@ else:
 
 ---
 
-# [Laços de repetição:](#lacos-de-repeticao:)
+# [Laços de repetição:](#lacos_de_repeticao:)
  
  Script para descobrir se o número é ímpar ou par.
 
