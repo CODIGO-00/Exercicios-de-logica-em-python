@@ -90,7 +90,7 @@ utilizando 'print()' para imprimir na tela.
 **Script**
 
 ```Python
-print("Olá mundo! Estou aprendendo python.")
+print(f"Olá mundo! Estou aprendendo python.")
 ```
 ---
 
@@ -109,7 +109,7 @@ idade=int(input("Digite sua idade:"))
 
 nome=input("Digite seu nome:")
 
-print("Olá",nome,", voce tem",idade, "anos.")
+print(f"Olá{nome},voce tem{idade}anos.")
 ```
 ---
 
