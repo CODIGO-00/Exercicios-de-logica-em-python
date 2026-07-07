@@ -40,7 +40,7 @@ Repositório criado para armazenar meus exercícios de lógica de programação 
  |   |
  |   |___01_ola_mundo.py
  |   | 
- |   |___02_informações_do_usuário.py
+ |   |___02_informações_do_usuario.py
  |   |
  |   |___
  |   
@@ -94,7 +94,7 @@ print("Olá mundo! Estou aprendendo python.")
 ```
 ---
 
-**02_informações_do_usuário.py**
+**02_informações_do_usuario.py**
 
 Programa que pede ao usuário o nome e a idade e no final imprime o resultado.
 
@@ -126,10 +126,10 @@ print("Olá",nome,", voce tem",idade, "anos.")
 **Script**
 
 ```Python
-Número=int(input("Digite um número:"))
+numero=int(input("Digite um número:"))
 
-print("o Dobro é ", Número * 2)
-print("o Resultado ao quadrado é",Número ** 2)
+print("o Dobro é ", numero * 2)
+print("o Resultado ao quadrado é",numero ** 2)
 ```
 ---
 
@@ -144,9 +144,9 @@ print("o Resultado ao quadrado é",Número ** 2)
 **Script**
 
 ```Python
-n1=int(input("Digite o primeiro número:"))
-n2=int(input("Digite o segundo número:"))
-n3=int(input("Digite o terceiro número:"))
+numero_1=int(input("Digite o primeiro número:"))
+numero_2=int(input("Digite o segundo número:"))
+numero_3=int(input("Digite o terceiro número:"))
 
 media=(n3 + n2 + n1) / 3
 
@@ -165,16 +165,16 @@ print("A média é", media)
 **Script**
 
 ```Python
-A=int(input("Digite um número:"))
-B=int(input("Digite outro número:"))
+primeiro=int(input("Digite um número:"))
+segundo=int(input("Digite outro número:"))
 
-print("Resultado da soma é",A + B)
+print("Resultado da soma é",primeiro + segundo)
 
-print("Resultado da subtração é",A - B)
+print("Resultado da subtração é",primeiro - segundo)
 
-print("Resultado da multiplicação é",A * B)
+print("Resultado da multiplicação é",primeiro * segundo)
 
-print("Resultado do resto da divisão é", A % B )
+print("Resultado do resto da divisão é", primeiro % primeiro)
 ```
 ___
 
@@ -190,19 +190,19 @@ Evoluir no cálculo mental da multiplicação com a com o uso do Script de forma
 
 ```Python
 #entrada 
-n=int(input("Digite um número:"))
+numero=int(input("Digite um número:"))
 
 #Tabela de multiplicação:
-print (n * 1)
-print (n * 2)
-print (n * 3)
-print (n * 4)
-print (n * 5)
-print (n * 6)
-print (n * 7)
-print (n * 8)
-print (n * 9)
-print (n * 10)
+print (numero * 1)
+print (numero * 2)
+print (numero * 3)
+print (numero * 4)
+print (numero * 5)
+print (numero * 6)
+print (numero * 7)
+print (numero * 8)
+print (numero * 9)
+print (numero * 10)
 ```
 
 ---
@@ -283,12 +283,12 @@ Desenvolver o raciocínio com while e true em laços de repetição.
 **script**
 ```Python
 while True:
-n=int(input("Digite um número"))
+numero=int(input("Digite um número"))
 if n % 2==0:
     print("é par")
 else:
     print("É impar")
-print("O resultado é",n)
+print("O resultado é",numero)
 ```
 
 ## ↗️[Meta:](#meta:)
