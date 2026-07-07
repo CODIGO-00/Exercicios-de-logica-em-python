@@ -73,7 +73,7 @@ Repositório criado para armazenar meus exercícios de lógica de programação 
  |
 ```
 
-## README.md
+## Sobre os programas:
 
 ---
 # [Entrada-e-saida:](#entrada-e-saida:)
