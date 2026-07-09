@@ -1,7 +1,6 @@
 while true:
-	n=int(input("Digite um número"))
-	if n % 2==0:
-		print("é par")
+	numero =int(input("Digite um número"))
+	if numero % 2==0:
+		print(f"é par")
 	else:
-		print("É impar")
-print("O resultado é", 
+		print(f"O número é impar")
