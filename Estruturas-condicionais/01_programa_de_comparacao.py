@@ -1,7 +1,7 @@
 primeiro=int(input("Digite o primeiro número:"))
 segundo=int(input("Digite o segundo número:"))
 
-if primeiro >= segundo:
-    print(f"O {primeiro} número maior que o {segundo}.")
+if primeiro > segundo:
+    print(f"O {primeiro} é um número maior que o {segundo}.")
 else:
-	print(f"O {primeiro} número é menor que o {segundo}.")
+	print(f"O {primeiro} é o número é menor que o {segundo}.")
