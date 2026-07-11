@@ -4,4 +4,4 @@ n3=int(input("Digite o terceiro número:"))
 
 media=(n3 + n2 + n1) / 3
 
-print("A média é", media)
+print(f"A média é {media}")
