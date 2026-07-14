@@ -148,9 +148,9 @@ numero_1=int(input("Digite o primeiro número:"))
 numero_2=int(input("Digite o segundo número:"))
 numero_3=int(input("Digite o terceiro número:"))
 
-media=(n3 + n2 + n1) / 3
+media=(numero_3 + numero_2 + numero_1) / 3
 
-print("A média é", media)
+print(f"A média é {media}")
 ```
 ---
 
@@ -168,13 +168,13 @@ print("A média é", media)
 primeiro=int(input("Digite um número:"))
 segundo=int(input("Digite outro número:"))
 
-print("Resultado da soma é",primeiro + segundo)
+print(f"Resultado da soma é {primeiro + segundo}")
 
-print("Resultado da subtração é",primeiro - segundo)
+print(f"Resultado da subtração é {primeiro - segundo}")
 
-print("Resultado da multiplicação é",primeiro * segundo)
+print(f"Resultado da multiplicação é {primeiro * segundo}")
 
-print("Resultado do resto da divisão é", primeiro % primeiro)
+print(f"Resultado do resto da divisão é {primeiro % primeiro}")
 ```
 ___
 
@@ -224,9 +224,9 @@ primeiro=int(input("Digite o primeiro número:"))
 segundo=int(input("Digite o segundo número:"))
 
 if primeiro >= segundo:
-    print("O primeiro número maior que o segundo.")
+    print(f"O {primeiro} número maior que o {segundo}.")
 else:
-    print("O primeiro número é menor que o segundo.")
+    print(f"O {primeiro} número é menor que o {segundo}.")
 ```
 
 ---
